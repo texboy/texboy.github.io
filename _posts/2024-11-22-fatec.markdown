@@ -10,4 +10,4 @@ thumb: /assets/img/fatec.png
 
 **Location:** Itapetininga, Brazil
 
-**Duration:** 3 years
+**Period:** 3 years

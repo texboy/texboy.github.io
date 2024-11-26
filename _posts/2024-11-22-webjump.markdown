@@ -9,21 +9,24 @@ thumb: /assets/img/webjump.jpeg
 
 **Location:** Remote, Brazil
 
-I worked on several regional and national level Magento 2 and Magento 1 projects and learned how to manage merchant's expectations.
+During my time at Webjump, I developed technical solutions for Magento stores, mentored junior developers, and led a team dedicated to 
+establishing and promoting Magento 2 best practices.
 
 ### Responsibilities:
-- Developing new stores (both backend and frontend)
-- Supporting existing stores
-- Planning custom features taking into account the needs of the merchant
-- Coordinating meetings with merchants to gather specifications for customizations.
+- Acted as a tech lead on multiple projects, guiding teams to successful delivery.
+- Created detailed documentation to help others better understand Magento and Adobe Commerce Cloud.
+- Planned, developed, and maintained new features for Magento, including new pages, admin sections, custom discounts, and payment methods.
+- Established a new internal team dedicated to developing and implementing best practices for Magento 2 store development and maintenance.
+- Conducted weekly internal presentations, where I reviewed recent pull requests from randomly selected team members to provide constructive feedback and foster a culture of continuous learning and code quality improvement.
 
 ### Achievements
 
-- Magento Cloud Certification
+- Magento Associate Developer Certification
+- Team lead on Adobe Commerce best practices
 
 ### Some of the projects that I worked on:
 
-- [Havan](https://www.havan.com.br/)
-- [ViaInox](https://www.viainox.com/)
-- [IZtextil](https://iztextil.com/)
-- [Viallure](https://www.viallure.com.br/)
+- Several different stores (Havan, Madeiranit, Nestlé, and other high profile clients)
+- POCM
+  - Internal management system used by AMBEV made entirely with Adobe Commerce as the base.
+- Internal Best Practices Project

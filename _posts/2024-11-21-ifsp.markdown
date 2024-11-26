@@ -10,4 +10,4 @@ thumb: /assets/img/ifsp.jpeg
 
 **Location:** Itapetininga, Brazil
 
-**Duration:** 2 years
+**Period:** 2 years
