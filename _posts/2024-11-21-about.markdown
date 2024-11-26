@@ -1,0 +1,12 @@
+---
+layout: page
+title: About me
+categories: about
+---
+Problem-solving, proactivity, and clear communication (with both teammates and clients) are things I value a lot. On the job, there’s nothing quite as satisfying as delivering on a carefully planned goal. Outside of work, I’m all about family, friends, music, and staying active – running and working out are some of my favorite things to do.
+
+I’ve earned a couple of Magento certifications (now rolled into one), and I’ve worked on projects at Webjump to help improve coding practices and project management. I’ve also contributed to Adobe Commerce's core, both for open-source and enterprise projects.
+
+Right now, I'm pretty focused on Adobe Commerce since it keeps evolving, but I’m also diving into new stacks and technologies. I'm really curious about AI-related projects and looking for opportunities to work on that.
+
+At Atwix, I’m responsible for tracking down and fixing bugs in newer versions of Adobe Commerce. It's a mix of support and dev, which keeps me on my toes and constantly learning. I love jumping into new challenges, which is how I ended up learning things like React, Python, and Node along the way.

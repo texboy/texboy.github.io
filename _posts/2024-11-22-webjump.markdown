@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Magento Backend Developer at Webjump"
+categories: job
+start: 20-03-2020
+end: 20-10-2021
+thumb: /assets/img/webjump.jpeg
+---
+
+**Location:** Remote, Brazil
+
+I worked on several regional and national level Magento 2 and Magento 1 projects and learned how to manage merchant's expectations.
+
+### Responsibilities:
+- Developing new stores (both backend and frontend)
+- Supporting existing stores
+- Planning custom features taking into account the needs of the merchant
+- Coordinating meetings with merchants to gather specifications for customizations.
+
+### Achievements
+
+- Magento Cloud Certification
+
+### Some of the projects that I worked on:
+
+- [Havan](https://www.havan.com.br/)
+- [ViaInox](https://www.viainox.com/)
+- [IZtextil](https://iztextil.com/)
+- [Viallure](https://www.viallure.com.br/)

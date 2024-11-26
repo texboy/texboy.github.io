@@ -1,0 +1,93 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.job-entry {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ddd; /* Optional for a separator */
+  padding: 10px;
+  border-radius: 8px; /* Slightly rounded corners */
+  transition: background-color 0.3s ease;
+  background: #ffffff; /* Default background (white) */
+}
+
+.job-entry:hover {
+  background: linear-gradient(to bottom, #FFF 50%, #f0f0f0, #d9d9d9);
+}
+
+.job-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+.job-header {
+  display: flex;
+  justify-content: space-between; /* Push the button to the end */
+  align-items: flex-start; /* Align title and button vertically */
+}
+
+.job-header h2 {
+  max-width: 60%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.job-details {
+  flex-grow: 1;
+}
+
+.hidden-content {
+  border-top: 1px solid #ddd; /* Optional for a separator */
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
+}
+
+.hidden-content.show {
+  opacity: 1;
+}
+
+.toggle-btn {
+  padding: 5px 10px;
+  border: none;
+  background-color: #757577;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.toggle-btn:hover {
+  background-color: #005bb5;
+}
+
+.toggle-btn.active {
+  background-color: #005bb5;
+}
+
+.job-entry.active {
+  background: linear-gradient(to bottom, #FFF 20%, #f0f0f0, #d9d9d9);
+}
+
+.read-more {
+  color: #007bff; /* Link color */
+  text-decoration: underline; /* Underline the text */
+  cursor: pointer; /* Change the cursor to a pointer on hover */
+}
+
+.read-more:hover {
+  color: #0056b3; /* Darker shade on hover */
+  text-decoration: none; /* Remove underline on hover */
+}
+.site-nav {
+  display: none;
+}

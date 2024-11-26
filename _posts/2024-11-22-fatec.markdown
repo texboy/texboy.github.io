@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Technologist in Systems Analysis and Development"
+categories: education
+start: 21-05-2019
+end: 21-3-2020
+thumb: /assets/img/fatec.png
+---
+**Institution:** Faculdade de Tecnologia do Estado de São Paulo
+
+**Location:** Itapetininga, Brazil
