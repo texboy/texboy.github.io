@@ -14,7 +14,7 @@ custom features, and module development. Additionally, provided consulting servi
 
 ### Responsibilities:
 - Developed new and engaging e-commerce solutions using Magento. 
-- Worked on the development a new store with Adobe's PWA Studio.
+- Worked on the development of a new store with Adobe's PWA Studio.
 - Collaborated with engineers and project managers to design and implement Magento modules, plugins, observables, and integrations.
 - Participated in client meetings to provide accurate estimations and propose innovative solutions for complex challenges.
 
